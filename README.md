@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a college student doing Bachelors of Computer applications. I like coding and debigging programs and doing different projects. I like exploring new coding languages and new fields in the tech world.
+I'm a college student doing Bachelors of Computer applications. I like coding and debugging programs and doing different projects. I like exploring new coding languages and new fields in the tech world.
 
 
 ## 🌐 Socials:
