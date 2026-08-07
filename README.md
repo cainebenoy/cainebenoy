@@ -45,14 +45,17 @@ Building AI orchestration platforms and LLM integration tools.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cainebenoy&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cainebenoy&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cainebenoy&theme=default&hide_border=true&layout=compact)
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/cainebenoy) &nbsp;|&nbsp; [Instagram](https://instagram.com/caine_benoy) &nbsp;|&nbsp; [X](https://x.com/caine_benoy) &nbsp;|&nbsp; [Email](mailto:your-email@example.com)
+- [LinkedIn](https://linkedin.com/in/cainebenoy)
+- [Instagram](https://instagram.com/caine_benoy)
+- [X](https://x.com/caine_benoy)
+- [GitHub](https://github.com/cainebenoy)
 
 ---
 
