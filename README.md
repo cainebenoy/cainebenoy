@@ -43,19 +43,21 @@ Building AI orchestration platforms and LLM integration tools.
 
 ---
 
-## Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cainebenoy&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cainebenoy&theme=default&hide_border=true&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cainebenoy&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=cainebenoy&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cainebenoy&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?username=cainebenoy&theme=radical)
 
 ---
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/cainebenoy)
-- [Instagram](https://instagram.com/caine_benoy)
-- [X](https://x.com/caine_benoy)
-- [GitHub](https://github.com/cainebenoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cainebenoy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/caine_benoy)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/caine_benoy)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cainebenoy)
 
 ---
 
