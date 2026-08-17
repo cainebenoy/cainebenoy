@@ -38,7 +38,7 @@ I'm a product engineer and generalist developer focused on AI/ML, LLM orchestrat
 
 ## Work
 
-**Product Engineer** @ CRAV *(2024–Present)*  
+**Product Engineer** @ CRAV *(Jul 2026–Present)*  
 Building AI orchestration platforms and LLM integration tools.
 
 ---
